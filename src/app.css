@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+/* Webfont: Dirtyline36Daysoftype2022-Reg */@font-face {
+    font-family: 'Dirtyline36Daysoftype2022';
+    src: url('font/Dirtyline 36daysoftype 2022.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
